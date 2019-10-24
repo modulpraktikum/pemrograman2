@@ -13,6 +13,8 @@ section/.DS_Store
 *.cb
 *.cb2
 .*.lb
+*.pyc
+*/__pycache__/*
 
 ## Intermediate documents:
 *.dvi
